@@ -1,3 +1,4 @@
+# This is common for all services . So it is here
 spring:
   jpa:
     show-sql: true
